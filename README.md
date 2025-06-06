@@ -1,10 +1,9 @@
-```markdown
+
 # 📅 나의 일정관리 시스템
 
 Gradio 기반으로 제작된 **주간 투두리스트 및 일별 체크리스트 웹 애플리케이션**입니다.  
 일정 추가, 삭제, 완료 처리 및 메모 기능까지 한눈에 관리할 수 있는 일정 도우미입니다.
 
----
 
 ## 🔧 주요 기능
 
@@ -13,11 +12,9 @@ Gradio 기반으로 제작된 **주간 투두리스트 및 일별 체크리스�
 - 🔍 **과거 일정 조회**: 날짜를 입력하면 해당 날짜의 주간/일별 일정 불러오기
 - 💾 **자동 저장**: 일정 추가/변경 시 자동으로 JSON 파일로 저장
 
----
 
 ## 📁 디렉토리 구조
 
-```
 
 project/
 ├── main.py              # 애플리케이션 메인 코드
@@ -26,9 +23,6 @@ project/
 ├── run\_gpu.bat          # 앱 실행용 배치 파일 (Windows)
 └── schedule\_data/       # 주간 및 일별 일정 저장 디렉토리
 
-````
-
----
 
 ## 📦 설치 방법
 
@@ -43,7 +37,6 @@ pip install -r requirements.txt
 
 또는 `make_venv.bat` 실행 (Windows 전용)
 
----
 
 ## ▶️ 실행 방법
 
@@ -54,7 +47,6 @@ python main.py
 앱이 실행되면 자동으로 Gradio 웹 UI가 브라우저에 열립니다.
 또는 `run_gpu.bat`를 사용할 수도 있습니다 (Windows 전용).
 
----
 
 ## 🌐 사용 기술
 
@@ -62,7 +54,6 @@ python main.py
 * Python 표준 라이브러리 (datetime, os, json 등)
 * JSON 기반 일정 저장
 
----
 
 ## 📜 라이선스
 
@@ -85,14 +76,14 @@ You should have received a copy of the GNU Affero General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 ```
 
----
+
 
 ## ✨ 기여
 
 피드백과 기여는 언제든지 환영입니다.
 AGPL 라이선스에 따라, 웹 서버에서 수정된 코드를 운영하는 경우 해당 소스코드 공개가 요구됩니다.
 
----
+
 
 ✅ 다양한 AI 프로젝트가 궁금하다면 👉 [gptonline.ai/ko](https://gptonline.ai/ko)
 
