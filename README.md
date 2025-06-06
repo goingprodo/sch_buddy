@@ -1,9 +1,3 @@
-좋습니다! 귀하의 프로젝트는 \*\*GNU Affero General Public License v3 (AGPL-3.0)\*\*을 선택하셨으므로, 이에 따라 `README.md` 파일의 라이선스 관련 내용을 수정해야 합니다. 아래는 수정된 `README.md`이며, 라이선스 조항 및 고지사항이 포함되어 있습니다.
-
-> 📢 다양한 인공지능 툴을 만나보세요: [gptonline.ai/ko](https://gptonline.ai/ko)
-
----
-
 ```markdown
 # 📅 나의 일정관리 시스템
 
