@@ -16,12 +16,12 @@ Gradio 기반으로 제작된 **주간 투두리스트 및 일별 체크리스�
 ## 📁 디렉토리 구조
 
 
-project/
-├── main.py              # 애플리케이션 메인 코드
-├── requirements.txt     # 필요한 파이썬 패키지 목록
-├── make\_venv.bat        # 가상환경 생성용 배치 파일 (Windows)
-├── run\_gpu.bat          # 앱 실행용 배치 파일 (Windows)
-└── schedule\_data/       # 주간 및 일별 일정 저장 디렉토리
+project/  <br>
+├── main.py              # 애플리케이션 메인 코드 <br>
+├── requirements.txt     # 필요한 파이썬 패키지 목록 <br>
+├── make\_venv.bat        # 가상환경 생성용 배치 파일 (Windows)  <br>
+├── run\_gpu.bat          # 앱 실행용 배치 파일 (Windows)  <br>
+└── schedule\_data/       # 주간 및 일별 일정 저장 디렉토리  <br>
 
 
 ## 📦 설치 방법
